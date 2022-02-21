@@ -4,7 +4,7 @@
 O objetivo desse desafio é o de aprimorar o código em Java OO realizado em conjunto com o professor Venilton Falvo Jr.
 
 ## Código Original
-disponível no link https://github.com/falvojr/lab-banco-digital-oo
+Disponível no endereço https://github.com/falvojr/lab-banco-digital-oo
 
 ## Mudanças realizadas
 - Codificação totalmente em inglês.
